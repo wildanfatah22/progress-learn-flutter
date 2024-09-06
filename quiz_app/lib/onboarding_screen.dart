@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:quiz_app/components/onboarding_button.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 class OnboardingScreen extends StatelessWidget {
   const OnboardingScreen(this.startQuiz, {super.key});
@@ -22,10 +23,6 @@ class OnboardingScreen extends StatelessWidget {
           ),
           const Text(
             'Learn Flutter the fun way',
-            style: TextStyle(
-              color: Colors.white,
-              fontSize: 24,
-            ),
           ),
           const SizedBox(
             height: 30,
