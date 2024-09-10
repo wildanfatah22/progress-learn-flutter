@@ -9,8 +9,3 @@ This repository is created to record my learning progress in Flutter. This proje
 * Master the fundamentals of Flutter app development
 * Build simple to complex Flutter applications
 * Implement concepts learned in the course
-
-**Project Structure**
-
-* **lib:** Contains Dart source code for the application
-* **test:** Contains unit tests for the application
